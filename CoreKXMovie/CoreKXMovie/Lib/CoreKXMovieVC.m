@@ -21,6 +21,8 @@
  *  .libiconv.dylib
  *  .libbz2.dylib
  *  .libz.dylib
+ *
+ *  3.有必要需要.mm文件
  */
 - (void)viewDidLoad {
     [super viewDidLoad];
